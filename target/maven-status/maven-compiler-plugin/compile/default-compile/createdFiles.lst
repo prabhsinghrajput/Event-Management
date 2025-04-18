@@ -1,0 +1,9 @@
+com\mycompany\eventmanagement\servlets\UpdateEventServlet.class
+com\mycompany\eventmanagement\JakartaRestConfiguration.class
+com\mycompany\eventmanagement\servlets\ApproveEventServlet.class
+servlets\EventServlet.class
+com\mycompany\eventmanagement\resources\JakartaEE8Resource.class
+com\mycompany\eventmanagement\servlets\CancelEventServlet.class
+com\mycompany\eventmanagement\servlets\LoginServlet.class
+servlets\RegisterServlet.class
+database\DBConnection.class
